@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/zhuya/Project/638_55p1sNew/packages/pptv/framework/hardware/mstar/src'
+let g:netrw_dirhist_2='/home/zhuya/Project/638_55p1sNew/packages/pptv/framework/hardware/mstar/src/tv'
+let g:netrw_dirhist_3='/home/zhuya/Project/638_55p1sNew/packages/pptv/framework/src'
+let g:netrw_dirhist_4='/home/zhuya/Project/638_55p1sNew/packages/pptv/framework/hardware/mstar/src/tv'
